@@ -1,0 +1,12 @@
+//
+//  Production.xcconfig
+//  Meetel
+//
+//  Created by Zaruhi Davtyan on 18.05.24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+BASE_URL = api.iconfinder.com
+API_KEY = HrfGnysJvW5NSmQf4tpQd8ZqXUZPGZe9ASRcEp7033Mcaip2lAA8NOeIeKI3ATJP
